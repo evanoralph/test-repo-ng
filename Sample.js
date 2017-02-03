@@ -1,1 +1,0 @@
-var angel = 'Yahoo!'
